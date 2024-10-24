@@ -12,6 +12,9 @@ O objetivo do projeto é para estudos. Construir um sistema que gerencie ativos 
 - Software
 - Cliente
 - Localidade
+- Tipo
+- Modelo Hardware
+- Fabricante
 - Usuário
 - Perfil
 
