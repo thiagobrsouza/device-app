@@ -1,0 +1,35 @@
+{
+  "name": "device-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagobrsouza/device-app.git"
+  },
+  "author": "Thiago Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagobrsouza/device-app/issues"
+  },
+  "homepage": "https://github.com/thiagobrsouza/device-app#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/morgan": "^1.9.9",
+    "@types/node": "^22.7.9",
+    "prisma": "^5.21.1",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.21.1",
+    "express": "^4.21.1",
+    "express-async-errors": "^3.1.1",
+    "morgan": "^1.10.0"
+  }
+}
