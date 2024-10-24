@@ -14,3 +14,6 @@ O objetivo do projeto é para estudos. Construir um sistema que gerencie ativos 
 - Localidade
 - Usuário
 - Perfil
+
+## Comandos extras
+CREATE SCHEMA `deviceapp` DEFAULT CHARACTER SET utf8 ;
